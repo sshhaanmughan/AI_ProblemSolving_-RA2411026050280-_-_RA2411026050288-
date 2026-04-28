@@ -113,8 +113,8 @@ Open `http://localhost:5000` in your browser.
 ## 📧 Contact
 
 For questions or suggestions, reach out to:
-- **Jaya Ruban P** — RA2411026050280 jr6547@srmist.edu.in 
-- **Aswin R** — RA2411026050288 ar0455@srmist.edu.in
+- **Jaya Ruban P** — RA2411026050280  
+- **Aswin R** — RA2411026050288 
 
 ---
 
